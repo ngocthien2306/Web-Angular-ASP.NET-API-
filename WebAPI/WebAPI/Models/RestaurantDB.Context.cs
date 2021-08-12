@@ -18,6 +18,7 @@ namespace WebAPI.Models
         public RestaurantDBEntities()
             : base("name=RestaurantDBEntities")
         {
+
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
