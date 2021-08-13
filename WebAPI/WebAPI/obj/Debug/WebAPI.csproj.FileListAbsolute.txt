@@ -87,3 +87,6 @@ C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\obj\Debug\WebAPI.csproj
 C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\hp\Downloads\Project\Web Anglular\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml

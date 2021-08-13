@@ -18,7 +18,7 @@ namespace WebAPI.Models
         public RestaurantDBEntities()
             : base("name=RestaurantDBEntities")
         {
-
+            base.Configuration.ProxyCreationEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
